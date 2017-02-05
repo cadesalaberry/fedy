@@ -1,9 +1,9 @@
 {
-	"icon": "sublime-text",
+	"icon": "sublime-text-3",
 	"label": "Sublime Text 3",
 	"description": "Sophisticated text editor for code, markup and prose (beta).",
 	"license": "Proprietary",
-	"category": "Apps",
+	"category": "Development Tools",
 	"scripts": {
 		"exec": {
 			"label": "Install",
